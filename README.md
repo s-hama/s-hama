@@ -2,7 +2,7 @@
 
 #### I'm a web frontend developer from Japan.
 #### You can find my work experience at [sigma-se.com/profile](https://sigma-se.com/profile).
-#### You can find my tech blog at  [sigma-se.com/profile](https://sigma-se.com/).
+#### You can find my tech blog at  [sigma-se.com](https://sigma-se.com/).
 
 ## GitHub Status
 [![github-chart](https://github-chart.vercel.app/api?user=s-hama)](https://github.com/s-hama/github-chart)
