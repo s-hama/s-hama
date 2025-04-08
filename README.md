@@ -5,7 +5,6 @@
 #### You can find my tech blog at  [sigma-se.com](https://sigma-se.com/).
 
 ## GitHub Status
-[![github-chart](https://github-chart.vercel.app/api?user=s-hama)](https://github.com/s-hama/github-chart)
 <p>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-hama&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
@@ -13,6 +12,8 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=s-hama&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+
+[![github-chart](https://github-chart.vercel.app/api?user=s-hama)](https://github.com/s-hama/github-chart)
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,java,cs,py,php" /> <br /><br />
