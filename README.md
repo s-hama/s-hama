@@ -11,10 +11,6 @@
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s-hama&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=s-hama&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
-
-[![github-chart](https://github-chart.vercel.app/api?user=s-hama)](https://github.com/s-hama/github-chart)
-
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,java,cs,py,php" /> <br /><br />
 
